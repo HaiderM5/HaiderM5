@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 💬 Ask me about **IaC, CI/CD & Cloud Services**
+- 💬 Ask me about **Infrastructure as Code (IaC), Continuous Integration and Continuous Deployment (CI/CD) & Cloud Services**
 
 - 📫 How to reach me **haidermukadam5@gmail.com**
 
@@ -19,7 +19,9 @@
 <p align="left">
 <a href="https://twitter.com/haids_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haids_m" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/haider-m5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haider-m5/" height="30" width="40" /></a>
+<a href="https://fb.com/haider mukdam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haider mukdam" height="30" width="40" /></a>
 <a href="https://instagram.com/haidermukadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haidermukadam" height="30" width="40" /></a>
+<a href="https://discord.gg/haidermukadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="haidermukadam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haiderm5&show_icons=true&locale=en" alt="haiderm5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HaiderM5&" alt="HaiderM5" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderm5&" alt="haiderm5" /></p>
