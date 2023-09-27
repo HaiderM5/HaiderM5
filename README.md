@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif))](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Haider</h1>
 <h3 align="center">I thrive on orchestrating seamless interactions between development and operations, harnessing the power of the Cloud to drive innovation and efficiency.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderm5&label=Profile%20views&color=0e75b6&style=flat" alt="haiderm5" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 💬 Ask me about **Infrastructure as Code (IaC), Continuous Integration and Continuous Deployment (CI/CD) & Cloud Services**
+- 💬 Ask me about **IaC, CI/CD & Cloud Services**
 
 - 📫 How to reach me **haidermukadam5@gmail.com**
 
@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haiderm5&show_icons=true&locale=en" alt="haiderm5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderm5&" alt="haiderm5" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HaiderM5&" alt="HaiderM5" /></p>
